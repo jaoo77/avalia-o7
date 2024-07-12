@@ -1,6 +1,6 @@
-beautifulsoup4==4.10.0
-matplotlib==3.5.1
-pandas==1.4.0
-requests==2.26.0
-streamlit==1.10.0
-fpdf==1.7.2
+beautifulsoup4
+matplotlib
+pandas
+requests
+streamlit
+fpdf
