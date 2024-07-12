@@ -76,7 +76,7 @@ def plotar_grafico_status():
     plt.ylabel('Número de Protocolos')
     plt.xticks(rotation=45)
     plt.tight_layout()
-    st.pyplot()
+    st.pyplot(plt.gcf())
 
 
 def main():
